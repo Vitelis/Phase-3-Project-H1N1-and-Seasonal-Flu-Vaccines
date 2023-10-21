@@ -85,7 +85,7 @@ Since majority of the above trained machine learning models exhibited robust bal
 
 ![**Visualization of results using bar graph**](bar_graph_models_results.png)
 
-![**Visualization of results using Heatmap**](bar_graph_models_results.png)
+![**Visualization of results using Heatmap**](Heatmap_models_results.png)
 
 Starting with the Decision Tree model, it initially shows high training accuracy but struggles with overfitting, resulting in lower generalization on the test and cross-validation datasets. The Optimized Decision Tree improves but doesn't outperform other models due to its lower AUC.
 
